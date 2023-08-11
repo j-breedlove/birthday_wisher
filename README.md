@@ -12,13 +12,13 @@ This script provides functionality to send automated emails for different purpos
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/j-breedlove/birthday_wisher.git 
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd <project-directory>
+cd birthday_wisher
 ```
 
 3. Install the required Python packages using Pipenv:
